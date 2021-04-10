@@ -172,8 +172,7 @@ gc [branch_name]
 # To push changes to another branch
 gbp [branch_name]
 
-# commit
-
+# To add, commit and push changes to the github
 gacp "commit msg"
 
 ```
