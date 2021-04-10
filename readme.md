@@ -1,6 +1,6 @@
 ![git-commands-workflows](images/cover.jpg)
 
-*The git commands & workflows I use on daily basis.*
+*The git commands & workflows I use on a daily basis.*
 
 <br />
 
