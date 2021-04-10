@@ -114,11 +114,11 @@ function fetchremotems() {
 	git push origin master
 }
 
-# Keep your GitHub forked repo in sync with the original repository with master as the primary branch
+# Keep your GitHub forked repo in sync with the original repository with main as the primary branch
 function fetchremotemn() {
 	git fetch upstream &&
-	git merge upstream/master &&
-	git push origin master
+	git merge upstream/main &&
+	git push origin main
 }
 
 # create new branch and checkout to it
