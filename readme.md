@@ -139,7 +139,7 @@ function gbp() {
 # add, commit, push changes to github
 function gacp() {
 	git add . &&
-	git commit -m "${1}"
+	git commit -m "${1}" &&
 	git push
 }
 
