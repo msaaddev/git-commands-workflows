@@ -22,7 +22,7 @@ git init
 
 ## Commands
 
-⚡️ ***The repetitive commands that I (and everyone else) use regularly.***
+⚡️ **The repetitive commands that I (and everyone else) use regularly.**
 
 ```sh
 
@@ -43,14 +43,14 @@ git push -u origin master
 
 ```
 
-🎩 ***Clone a repository in your computer.***
+🎩 **Clone a repository in your computer.**
 
 ```sh
 # clone a repo
 git clone [repo_url]
 ```
 
-🌲 ***The git commands you need to know to work with branches.***
+🌲 **The git commands you need to know to work with branches.**
 
 ```sh
 
@@ -76,7 +76,7 @@ git branch -d [branch_name]
 
 ```
 
-🎯 ***Keep your GitHub forked repo in sync with the original repository.***
+🎯 **Keep your GitHub forked repo in sync with the original repository.**
 
 ```sh
 
@@ -145,7 +145,7 @@ function gacp() {
 
 ```
 
-💥 ***Fetching changes from the original repo to your forked repo.***
+💥 **Fetching changes from the original repo to your forked repo.**
 
 ```sh
 
@@ -162,7 +162,7 @@ fetchremotemn
 
 ```
 
-🎲 ***Usage of the rest of the workflows.***
+🎲 **Usage of the rest of the workflows.**
 
 ```sh
 
@@ -180,7 +180,7 @@ gacp "commit-msg"
 
 ```
 
-` NOTE ` I extensively use [Emoji-log](https://github.com/ahmadawais/emoji-log) by [Ahmad Awais](http://github.com/ahmadawais) in my commit msgs. You should also take a look at its [workflows](https://github.com/ahmadawais/emoji-log###THE%20WORKFLOW%20&%20MEANINGS).
+` NOTE ` I extensively use [Emoji-log](https://github.com/ahmadawais/emoji-log) by [Ahmad Awais](http://github.com/ahmadawais) in my commit msgs. I would highly recommend you to take a look at its [workflows](https://github.com/ahmadawais/emoji-log###THE%20WORKFLOW%20&%20MEANINGS).
 
 ## 👨🏻‍💻 Contributing
 
