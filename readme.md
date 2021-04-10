@@ -188,4 +188,4 @@ Feel free to add your git workflows in the repository. Just make sure you first 
 
 ## 🔑 License
 
-- [MIT](https://github.com/msaaddev/git-commands-workflows/blob/master/LICENSE)
+- [Saad Irfan](https://github.com/msaaddev) © [MIT](https://github.com/msaaddev/git-commands-workflows/blob/master/LICENSE)
