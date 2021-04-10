@@ -36,7 +36,7 @@ git status
 git add .
 
 # commit the tracked files of the staging area
-git commit -m "commit msg"
+git commit -m "commit-msg"
 
 # push all the changes to the GitHub
 git push -u origin master
@@ -92,7 +92,7 @@ git fetch upstream
 # STEP #4: merging the new changes from the original repo to your forked local repo
 git merge upstream/master
 
-# STEP #5: pushing the new changes of forked local repo to the GitHub
+# STEP #5: pushing the new changes of the forked local repo to the GitHub
 git push origin master
 
 ```
@@ -103,7 +103,7 @@ git push origin master
 
 ## Workflows
 
-Open your `.zshrc` or `.bashrc` file. It is located in your root directory. Paste the following shell code there.
+Open your `.zshrc` or `.bashrc` file. It is located in your root directory. Paste the following shellcode there.
 
 ```sh
 
@@ -176,7 +176,7 @@ gc [branch_name]
 gbp [branch_name]
 
 # To add, commit and push changes to the github
-gacp "commit msg"
+gacp "commit-msg"
 
 ```
 
