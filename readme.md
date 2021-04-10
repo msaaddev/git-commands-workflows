@@ -29,6 +29,9 @@ git init
 # connect the remote GitHub repo with your local project
 git remote add origin [github-repo-url]
 
+# see untracked files
+git status
+
 # add all untracked files to the staging area
 git add .
 
