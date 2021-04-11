@@ -192,6 +192,15 @@ alias gaa='git add .'
 alias gc='git commit -m '
 alias gp='git push'
 alias gpm='git push origin master'
+
+# create YOUR own git workflows
+function [functionName]() {
+    # commands to execute when function is called
+    # if there are more than one commands, use && between them
+    # to use the first output from the terminal, use "${1}"
+}
+
+
 ```
 
 ### 🚀 Usage
