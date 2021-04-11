@@ -22,7 +22,7 @@ git init
 
 ## Commands
 
-⚡️ **The repetitive commands that I (and everyone else) use regularly.**
+⚡️ The **repetitive** commands that I (and everyone else) use regularly.
 
 ```sh
 
@@ -43,14 +43,14 @@ git push -u origin master
 
 ```
 
-🎩 **Clone a repository in your computer.**
+🎩 **Clone** a repository in your computer.
 
 ```sh
 # clone a repo
 git clone [repo_url]
 ```
 
-🌲 **The git commands you need to know to work with branches.**
+🌲 The git commands you need to know to *work* with **branches**.
 
 ```sh
 
@@ -63,7 +63,7 @@ git branch [branch_name]
 # checkout to the new branch
 git checkout [branch_name]
 
-# 				OR
+# 	OR
 
 # create AND checkout to the new branch
 git checkout -b [branch_name]
@@ -71,12 +71,54 @@ git checkout -b [branch_name]
 # pushing the new branch on GitHub
 git push origin [branch_name]
 
-# delete a branch
+# delete a branch locally
 git branch -d [branch_name]
+
+# delete a branch on GitHub
+git push origin -d [branch_name]
+
+# pulling changes from some other branch
+git pull origin [branch_name]
+
+# merge a branch with the current active branch
+git merge [branch_name]
+
+# merge a branch to some defined branch
+git merge [source_branch] [target_branch]
 
 ```
 
-🎯 **Keep your GitHub forked repo in sync with the original repository.**
+📚 **Stashing** your untracked changes — Stash saves all the *new untracked changes* and rewind your repo to the last commit.
+
+```sh
+
+# stash the untracked changes
+git stash
+
+# pop an existing stack
+git stash apply stash@{stash_number}
+
+# list all stashes
+git stash list
+
+# delete all saved stashes
+git stash clear
+
+```
+
+🍒 **Pulling** all the new changes from the remote repository on GitHub
+
+```sh
+
+# pull changes from master branch
+git pull origin master
+
+# pulling changes from some other branch
+git pull origin [branch_name]
+
+```
+
+🎯 Keep your GitHub forked repo in **sync** with the original repository.
 
 ```sh
 
@@ -145,7 +187,9 @@ function gacp() {
 
 ```
 
-💥 **Fetching changes from the original repo to your forked repo.**
+### 🚀 Usage
+
+Fetching changes from the original repo to your forked repo.
 
 ```sh
 
@@ -162,7 +206,7 @@ fetchremotemn
 
 ```
 
-🎲 **Usage of the rest of the workflows.**
+Usage of the rest of the workflows.
 
 ```sh
 
