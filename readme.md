@@ -188,6 +188,7 @@ function gacp() {
 # aliases
 alias gi='git init'
 alias gs='git status'
+alias ga='git add '
 alias gaa='git add .'
 alias gc='git commit -m '
 alias gp='git push'
@@ -237,6 +238,24 @@ gbp [branch_name]
 
 # To add, commit and push changes to the github
 gacp "commit-msg"
+
+# initialize git
+gi
+
+# check status
+gs
+
+# stage untracked file
+ga [file_name]
+
+# stage all untracked files
+gaa
+
+# commit the changes
+gc "commit-msg"
+
+# push changes to master
+gpm
 
 ```
 
