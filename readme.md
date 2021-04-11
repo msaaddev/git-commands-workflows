@@ -185,6 +185,13 @@ function gacp() {
 	git push
 }
 
+# aliases
+alias gi='git init'
+alias gs='git status'
+alias gaa='git add .'
+alias gc='git commit -m '
+alias gp='git push'
+alias gpm='git push origin master'
 ```
 
 ### 🚀 Usage
