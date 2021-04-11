@@ -169,7 +169,7 @@ function gcb() {
 }
 
 # checkout to a branch
-function gc() {
+function gch() {
 	git checkout "${1}"
 }
 
@@ -231,7 +231,7 @@ Usage of the rest of the workflows.
 gcb [branch_name]
 
 # To checkout to an existing branch
-gc [branch_name]
+gch [branch_name]
 
 # To push changes to another branch
 gbp [branch_name]
