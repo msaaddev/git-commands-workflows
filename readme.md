@@ -88,7 +88,7 @@ git merge [source_branch] [target_branch]
 
 ```
 
-📚 **Stashing** untracked changes — Stash saves all the *new untracked changes* and rewind your repo to the last commit.
+📚 **Stashing** untracked changes — It saves all the *new untracked changes* and rewind your repo to the last commit.
 
 ```sh
 
