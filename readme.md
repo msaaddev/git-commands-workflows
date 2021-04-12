@@ -192,7 +192,8 @@ alias ga='git add '
 alias gaa='git add .'
 alias gc='git commit -m '
 alias gp='git push'
-alias gpm='git push origin master'
+alias gra='git remote add origin '
+alias gpm='git push -u origin master'
 
 # create YOUR own git workflows
 function [functionName]() {
@@ -253,6 +254,9 @@ gaa
 
 # commit the changes
 gc "commit-msg"
+
+# connect remote repo to the local repo
+gra [repo-link]
 
 # push changes to master
 gpm
