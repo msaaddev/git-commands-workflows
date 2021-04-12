@@ -139,7 +139,7 @@ git push origin master
 
 ```
 
-` Note: ` Replace main with master if your primary branch is `main`.
+` Note: ` Replace master with main if your primary branch is `main`.
 
 
 <br/>
