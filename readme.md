@@ -139,6 +139,9 @@ git push origin master
 
 ```
 
+` Note: ` Replace main with master if your primary branch is `main`.
+
+
 <br/>
 
 <img src="./images/workflow.png" width="10%" />
