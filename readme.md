@@ -148,7 +148,7 @@ git push origin master
 
 ## Workflows
 
-Open your `.zshrc` or `.bashrc` file. It is located in your root directory. Paste the following shellcode there.
+Open your `.zshrc` or `.bashrc` file. It is located in your Home directory. Paste the following shellcode there.
 
 ```sh
 
