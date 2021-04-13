@@ -272,6 +272,7 @@ gpm
 
 Feel free to add your git workflows in the repository. Just make sure you first read the [contributing guidelines](https://github.com/msaaddev/git-commands-workflows/blob/master/contributing.md) before making a PR.
 
-## 🔑 License
+## 🔑 License & Conduct
 
-- [Saad Irfan](https://github.com/msaaddev) © [MIT](https://github.com/msaaddev/git-commands-workflows/blob/master/LICENSE)
+- MIT © [Saad Irfan](https://github.com/msaaddev)
+- [Code of Conduct](https://github.com/msaaddev/git-commands-workflows/blob/master/code-of-conduct.md)
