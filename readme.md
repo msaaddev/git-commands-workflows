@@ -1,6 +1,6 @@
 ![git-commands-workflows](images/cover.jpg)
 
-*The git commands & workflows I use on a daily basis.*
+*The git commands & workflows you need to know to work with git and automate your regular commands.*
 
 <br />
 
