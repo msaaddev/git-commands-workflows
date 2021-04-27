@@ -43,6 +43,16 @@ git push -u origin master
 
 ```
 
+🏗 **Git Setup** if you have never used git before.
+
+```sh
+# configure git with your github username
+git config --global user.name "your_github_username"
+
+# configure git with your github email (email you used to sign up on GitHub)
+git config --global user.email "your_email@whatever.com"
+```
+
 🎩 **Clone** a repository in your computer.
 
 ```sh
