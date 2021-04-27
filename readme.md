@@ -276,8 +276,6 @@ gpm
 
 ```
 
-` NOTE ` I extensively use [Emoji-log](https://github.com/ahmadawais/emoji-log) by [Ahmad Awais](http://github.com/ahmadawais) in my commit msgs. I would highly recommend you to take a look at its [workflows](https://github.com/ahmadawais/emoji-log###THE%20WORKFLOW%20&%20MEANINGS).
-
 ## 👨🏻‍💻 Contributing
 
 Feel free to add your git workflows in the repository. Just make sure you first read the [contributing guidelines](https://github.com/msaaddev/git-commands-workflows/blob/master/contributing.md) before making a PR.
